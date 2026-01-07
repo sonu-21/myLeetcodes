@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sonu-21/myLeetcodes/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonu-21/myLeetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1470-shuffle-the-array](https://github.com/sonu-21/myLeetcodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sonu-21/myLeetcodes/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
