@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sonu-21/myLeetcodes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sonu-21/myLeetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sonu-21/myLeetcodes/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sonu-21/myLeetcodes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sonu-21/myLeetcodes/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonu-21/myLeetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sonu-21/myLeetcodes/tree/master/0645-set-mismatch) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sonu-21/myLeetcodes/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sonu-21/myLeetcodes/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/sonu-21/myLeetcodes/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/sonu-21/myLeetcodes/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
