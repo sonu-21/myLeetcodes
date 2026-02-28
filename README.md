@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sonu-21/myLeetcodes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sonu-21/myLeetcodes/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonu-21/myLeetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/sonu-21/myLeetcodes/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonu-21/myLeetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sonu-21/myLeetcodes/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sonu-21/myLeetcodes/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/sonu-21/myLeetcodes/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sonu-21/myLeetcodes/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sonu-21/myLeetcodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sonu-21/myLeetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonu-21/myLeetcodes/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/sonu-21/myLeetcodes/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonu-21/myLeetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sonu-21/myLeetcodes/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonu-21/myLeetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -115,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sonu-21/myLeetcodes/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
