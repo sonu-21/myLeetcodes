@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sonu-21/myLeetcodes/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sonu-21/myLeetcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonu-21/myLeetcodes/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/sonu-21/myLeetcodes/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonu-21/myLeetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sonu-21/myLeetcodes/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
