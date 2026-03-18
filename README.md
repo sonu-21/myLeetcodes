@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonu-21/myLeetcodes/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sonu-21/myLeetcodes/tree/master/0189-rotate-array) |
+| [1922-count-good-numbers](https://github.com/sonu-21/myLeetcodes/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sonu-21/myLeetcodes/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sonu-21/myLeetcodes/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/sonu-21/myLeetcodes/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
