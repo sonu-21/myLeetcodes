@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonu-21/myLeetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sonu-21/myLeetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/sonu-21/myLeetcodes/tree/master/0645-set-mismatch) |
+| [0735-asteroid-collision](https://github.com/sonu-21/myLeetcodes/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/sonu-21/myLeetcodes/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sonu-21/myLeetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sonu-21/myLeetcodes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sonu-21/myLeetcodes/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/sonu-21/myLeetcodes/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sonu-21/myLeetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonu-21/myLeetcodes/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/sonu-21/myLeetcodes/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonu-21/myLeetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
