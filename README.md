@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sonu-21/myLeetcodes/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/sonu-21/myLeetcodes/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sonu-21/myLeetcodes/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sonu-21/myLeetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sonu-21/myLeetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sonu-21/myLeetcodes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonu-21/myLeetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sonu-21/myLeetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sonu-21/myLeetcodes/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/sonu-21/myLeetcodes/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sonu-21/myLeetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sonu-21/myLeetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -185,8 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonu-21/myLeetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sonu-21/myLeetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sonu-21/myLeetcodes/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sonu-21/myLeetcodes/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sonu-21/myLeetcodes/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/sonu-21/myLeetcodes/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
