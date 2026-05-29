@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sonu-21/myLeetcodes/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sonu-21/myLeetcodes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sonu-21/myLeetcodes/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/sonu-21/myLeetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonu-21/myLeetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/sonu-21/myLeetcodes/tree/master/0645-set-mismatch) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sonu-21/myLeetcodes/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sonu-21/myLeetcodes/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/sonu-21/myLeetcodes/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/sonu-21/myLeetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sonu-21/myLeetcodes/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonu-21/myLeetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -179,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonu-21/myLeetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sonu-21/myLeetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sonu-21/myLeetcodes/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
