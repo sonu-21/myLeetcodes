@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sonu-21/myLeetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sonu-21/myLeetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sonu-21/myLeetcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sonu-21/myLeetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sonu-21/myLeetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sonu-21/myLeetcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sonu-21/myLeetcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sonu-21/myLeetcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
