@@ -314,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sonu-21/myLeetcodes/tree/master/0547-number-of-provinces) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sonu-21/myLeetcodes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
