@@ -1,29 +1,30 @@
 class Solution {
 public:
-     long long calculateHours(vector<int>& piles, int k){
+    long long calHours(vector<int>& piles,int speed){
         long long hours = 0;
-        for(int x : piles){
-            hours += (long long)(x + k - 1) / k;
+        for(auto x: piles){
+            
+            hours  += ((long long)x + speed - 1) / speed;
+
         }
         return hours;
-     }
+    }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int maxEle = *max_element(piles.begin(),piles.end()) ;
-        int low = 1, high = maxEle;
-
-        while(low <= high){
-            int mid = low + (high-low)/2;
-             long long reqHours = calculateHours(piles,mid);
-            if(reqHours<=h){
-                high = mid - 1;
+        int s = 1;
+        int e = *max_element(piles.begin(),piles.end());
+        int k = e;
+        while(s <= e){
+            int speed = s + (e-s)/2;
+            long long time = calHours(piles,speed);
+            if(time <= h){
+                k = speed;
+                e = speed-1;
             }
             else{
-                low = mid + 1;
+                s = speed+1;
             }
-            
         }
+        return k;
 
-
-       return low;
     }
 };
