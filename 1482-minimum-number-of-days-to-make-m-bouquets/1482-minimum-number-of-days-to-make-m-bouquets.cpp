@@ -1,36 +1,39 @@
 class Solution {
 public:
-    bool checkBouquets(vector<int>& bloomDay, int m, int k,int day){
-        int cnt = 0 ; int pAns = 0 ;
-        for(int i = 0 ; i < bloomDay.size() ;i++){
-            if(bloomDay[i] <= day ){
-                cnt++;
+    long long helper(vector<int>& bloomDay, int k, int day) {
+        long long b = 0;
+        int cnt = 0;
+        for(auto x : bloomDay) {
+            if(x>day){
+               cnt=0;
             }
             else{
-                pAns = pAns + (cnt/k);
-                cnt = 0 ; 
-
+                cnt++;
+                if(cnt == k){
+                    cnt = 0;
+                    b++;
+                }
             }
+      
         }
-         pAns = pAns + (cnt/k);
-
-         return (pAns>=m);
+          return b;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int mini = *min_element(bloomDay.begin(),bloomDay.end());
-        int maxi =  *max_element(bloomDay.begin(),bloomDay.end());
-        if(1LL*m*k > bloomDay.size()) return -1;
-        int result = -1;
-       while(mini<=maxi){
-        int mid = mini  + (maxi -  mini)/2;
-        if(checkBouquets(bloomDay, m , k , mid)){
-            result= mid;
-            maxi = mid-1;
+        // 1,10,3,10,2
+        int s = *min_element(bloomDay.begin(),bloomDay.end());
+        int e = *max_element(bloomDay.begin(),bloomDay.end());
+        int ans = -1;
+        while(s <= e){
+            int mid = s + (e-s)/2;
+            long long bouquet = helper(bloomDay,k,mid);
+            if(bouquet >= m ){
+                ans = mid;
+                e = mid-1;
+            }
+            else{
+                s = mid+1;
+            }
         }
-        else{
-            mini = mid  + 1 ;
-        }
-       }
-        return result;
+        return ans;
     }
 };
