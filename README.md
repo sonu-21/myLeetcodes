@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sonu-21/myLeetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sonu-21/myLeetcodes/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonu-21/myLeetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/sonu-21/myLeetcodes/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonu-21/myLeetcodes/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sonu-21/myLeetcodes/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/sonu-21/myLeetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sonu-21/myLeetcodes/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sonu-21/myLeetcodes/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sonu-21/myLeetcodes/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
