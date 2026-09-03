@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonu-21/myLeetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sonu-21/myLeetcodes/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sonu-21/myLeetcodes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/sonu-21/myLeetcodes/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sonu-21/myLeetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sonu-21/myLeetcodes/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/sonu-21/myLeetcodes/tree/master/0735-asteroid-collision) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sonu-21/myLeetcodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonu-21/myLeetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sonu-21/myLeetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/sonu-21/myLeetcodes/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sonu-21/myLeetcodes/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/sonu-21/myLeetcodes/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/sonu-21/myLeetcodes/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sonu-21/myLeetcodes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sonu-21/myLeetcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/sonu-21/myLeetcodes/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/sonu-21/myLeetcodes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sonu-21/myLeetcodes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonu-21/myLeetcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
