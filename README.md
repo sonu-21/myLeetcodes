@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/sonu-21/myLeetcodes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonu-21/myLeetcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/sonu-21/myLeetcodes/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sonu-21/myLeetcodes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sonu-21/myLeetcodes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonu-21/myLeetcodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/sonu-21/myLeetcodes/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonu-21/myLeetcodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sonu-21/myLeetcodes/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
@@ -327,11 +329,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sonu-21/myLeetcodes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sonu-21/myLeetcodes/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sonu-21/myLeetcodes/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sonu-21/myLeetcodes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sonu-21/myLeetcodes/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sonu-21/myLeetcodes/tree/master/0785-is-graph-bipartite) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -352,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sonu-21/myLeetcodes/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sonu-21/myLeetcodes/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sonu-21/myLeetcodes/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
