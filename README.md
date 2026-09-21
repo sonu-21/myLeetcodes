@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sonu-21/myLeetcodes/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sonu-21/myLeetcodes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonu-21/myLeetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sonu-21/myLeetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/sonu-21/myLeetcodes/tree/master/0542-01-matrix) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonu-21/myLeetcodes/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/sonu-21/myLeetcodes/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sonu-21/myLeetcodes/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-21/myLeetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sonu-21/myLeetcodes/tree/master/1922-count-good-numbers) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sonu-21/myLeetcodes/tree/master/0787-cheapest-flights-within-k-stops) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sonu-21/myLeetcodes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
