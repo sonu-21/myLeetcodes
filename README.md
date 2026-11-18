@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sonu-21/myLeetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/sonu-21/myLeetcodes/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/sonu-21/myLeetcodes/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sonu-21/myLeetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sonu-21/myLeetcodes/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sonu-21/myLeetcodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/sonu-21/myLeetcodes/tree/master/1929-concatenation-of-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sonu-21/myLeetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sonu-21/myLeetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sonu-21/myLeetcodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/sonu-21/myLeetcodes/tree/master/1480-running-sum-of-1d-array) |
 ## Tree
 |  |
 | ------- |
